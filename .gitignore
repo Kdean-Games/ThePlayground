@@ -1,4 +1,8 @@
-# Visual Studio 2015 user specific files
+#################################
+# Kdean Games - GitIgnore file	#
+# Visual Studio  specific files #
+#################################
+
 .vs/
 
 # Compiled Object files
@@ -40,6 +44,11 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+
+#################################
+# Kdean Games - GitIgnore file	#
+# Unreal Engine Generated Files #
+#################################
 
 # Precompiled Assets
 SourceArt/**/*.png
